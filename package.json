@@ -2,20 +2,12 @@
   "name": "exercise-03-importing-exporting-and-npm-rrisaac",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "test.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://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@github.com/CMSC-100-UV7L/exercise-03-importing-exporting-and-npm-rrisaac.git"
-  },
-  "author": "",
+  "author": "Reynaldo Isaac Jr.",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/CMSC-100-UV7L/exercise-03-importing-exporting-and-npm-rrisaac/issues"
-  },
-  "homepage": "https://github.com/CMSC-100-UV7L/exercise-03-importing-exporting-and-npm-rrisaac#readme",
   "dependencies": {
     "uuid": "^9.0.0",
     "validator": "^13.9.0"
