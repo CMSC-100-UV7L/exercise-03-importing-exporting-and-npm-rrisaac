@@ -2,8 +2,8 @@
 This program features the Javascript Basic II and the application of packages and npm. 
 
 ## Further details
-*Author: Reynaldo R. Isaac Jr.
-*Section: CMSC 100 UV7L
+* Author: Reynaldo R. Isaac Jr.
+* Section: CMSC 100 UV7L
 
 ## Features
 In the functions.js file, two functions were made convenient by importing and exporting packages.
